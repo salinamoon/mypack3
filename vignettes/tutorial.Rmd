@@ -18,7 +18,7 @@ knitr::opts_chunk$set(
 library(mypack3)
 ```
 
-To use the function 'square':
+To use the function `square:
 
 ```{r}
 square(1:3)
